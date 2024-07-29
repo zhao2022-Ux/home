@@ -13,5 +13,20 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.zhaohonghao-qwq.com/"
+  },
+  {
+    "icon": "Fire",
+    "name": "五子棋",
+    "link": "https://wzq.zhaohonghao-qwq.com/"
+  },
+  {
+    "icon": "Book",
+    "name": "洛谷",
+    "link": "https://www.luogu.com.cn/user/1056150"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热搜",
+    "link": "https://top.zhaohonghao-qwq.com"
   }
 ]
