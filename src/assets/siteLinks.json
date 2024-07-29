@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.zhaohonghao-qwq.com/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://zhaohonghao-qwq.com/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.zhaohonghao-qwq.com/"
+  }
+]
